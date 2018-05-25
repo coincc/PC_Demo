@@ -1,0 +1,62 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 SE (ID=0x1208)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\zxing.unity.dll (this message is harmless)
+Loading D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\zxing.unity.dll into Unity Child Domain
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\workspace\unity\PC_Demo\Build\Play_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.358 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 45.494419 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3f5c -> priority: 1 
+  Thread -> id: 3454 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.828818 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 386.
+Total: 4.913921 ms (FindLiveObjects: 0.042821 ms CreateObjectMapping: 0.017997 ms MarkObjects: 0.212245 ms  DeleteObjects: 4.639615 ms)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_webCameraTexture
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11111
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+22222
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3333333
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2222222222
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

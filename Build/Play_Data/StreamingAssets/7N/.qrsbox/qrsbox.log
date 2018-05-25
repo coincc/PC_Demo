@@ -1,0 +1,6 @@
+2017/11/15 17:32:13.417082 [INFO][qbox.us/qrsbox/v2] sync.go:107: confDir: C:\Users\chu-jiao/.qrsbox
+2017/11/15 17:32:13.420081 [WARN][walk/qrsbox] qrsbox.go:111: startSyncApp failed:
+ ==> The system cannot find the file specified. ~ startSyncApp failed
+ ==> The system cannot find the file specified. ~ qrsbox.Open: startTask failed
+ ==> The system cannot find the file specified. ~ startTask: fsw.Open failed
+ ==> The system cannot find the file specified.

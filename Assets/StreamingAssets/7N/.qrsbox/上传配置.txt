@@ -1,0 +1,5 @@
+AccessKey:_grQm0E2K6GHihq_NqdurY9tiR-f3bNdgxeD3q8C
+SecreKey:KFMIcUK_oXex3Pr5ner84rBGJkqK1aanmEw6Pamd
+同步源目录：你自己的安装路径+\PC_demo\Play_Data\StreamingAssets\pictureupload(例如：C:\Users\chu-jiao\Desktop\PC_demo\Play_Data\StreamingAssets\pictureupload)
+空间名字：demopicture
+key前缀：vercache/
